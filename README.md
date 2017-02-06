@@ -19,8 +19,12 @@ For navigation through Charlie’s projects:
  <https://github.com/Xharlie/multi_task_NN>
 <br /> 
 <br />
+## **A Deconvolution Generative model**
+ <https://github.com/Xharlie/deconv-generative>
+<br />
+<br />
 ## My work is not limited to what is posted here, 
-I will keep updating other projects, researches that is finished and in progress
+I will keep updating my other projects and researches.
 
 
  
