@@ -1,8 +1,14 @@
 # Project gateway:
-
 For navigation through Charlie’s projects:
 <br /> 
+# Ongoing Research:
+## **Multi Task GenNet**
+<https://github.com/Xharlie/MultiGen>
 <br /> 
+<br /> 
+<br /> 
+# Projects:
+
 ## **HBASE Private Branch (freshly organized)**
  <https://github.com/Xharlie/hbase_enhancement>
 <br /> 
