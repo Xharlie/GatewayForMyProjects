@@ -2,7 +2,7 @@
 For navigation through Charlie’s projects:
 <br /> 
 # Ongoing Research:
-## **Multi Task GenNet**
+## **MultiGen, a generative network boosted by adding GANs and Generative Cooperative Network**
 <https://github.com/Xharlie/MultiGen>
 <br /> 
 <br /> 
