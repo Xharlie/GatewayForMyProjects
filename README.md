@@ -6,7 +6,7 @@ For navigation through Charlie’s projects:
 <https://github.com/Xharlie/MultiGen>
 
 Paper: Generative Cooperative Net for Image Generation and Data Augmentation
-<https://scholar.google.com/citations?view_op=view_citation&hl=en&user=A-tqP6MAAAAJ&citation_for_view=A-tqP6MAAAAJ:u5HHmVD_uO8C/view>
+<https://scholar.google.com/citations?view_op=view_citation&hl=en&user=A-tqP6MAAAAJ&citation_for_view=A-tqP6MAAAAJ:u5HHmVD_uO8C>
 <br /> 
 <br /> 
 <br /> 
