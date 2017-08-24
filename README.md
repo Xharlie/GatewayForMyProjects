@@ -1,12 +1,12 @@
 # Project gateway:
 For navigation through Charlie’s projects:
 <br /> 
-# Ongoing Research:
+# Research:
 ## **MultiGen, a generative network boosted by adding GANs and Generative Cooperative Network**
 <https://github.com/Xharlie/MultiGen>
 
 Paper: Generative Cooperative Net for Image Generation and Data Augmentation
-<https://arxiv.org/submit/1883136/view>
+<https://scholar.google.com/citations?view_op=view_citation&hl=en&user=A-tqP6MAAAAJ&citation_for_view=A-tqP6MAAAAJ:u5HHmVD_uO8C/view>
 <br /> 
 <br /> 
 <br /> 
