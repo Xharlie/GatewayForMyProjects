@@ -10,12 +10,14 @@ code: <https://github.com/Xharlie/MultiGen> <br />
 <br />
 ## **Long-term video motion temporal super resolution** <br /> 
 Authors: Qiangeng Xu, Hanwang Zhang  <br /> 
-code: <https://github.com/Xharlie/motion_temporal_super_resolution> <br />
+project site: <https://github.com/Xharlie/Project-site-Long-term-video-temporal-super-resolution> <br />
+code(keep private before publication): <https://github.com/Xharlie/motion_temporal_super_resolution> <br />
 <br />
 <br />
 ## **Variation-Disentanglement-Siamese-Net** <br /> 
 Authors: Qiangeng Xu, Hanwang Zhang  <br /> 
-code: <https://github.com/Xharlie/Variation-Disentanglement-Siamese-Net> <br /> 
+project site: <https://github.com/Xharlie/Project-site-Variation-Disentanglement-Siamese-Net> <br />
+code(keep private before publication): <https://github.com/Xharlie/Variation-Disentanglement-Siamese-Net> <br /> 
 <br /> 
 <br /> 
 <br /> 
