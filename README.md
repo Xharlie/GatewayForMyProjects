@@ -21,7 +21,6 @@ code: <https://github.com/Xharlie/Variation-Disentanglement-Siamese-Net> <br />
 <br /> 
 
 # Projects:
-
 ## **HBASE Private Branch (freshly organized)**
  <https://github.com/Xharlie/hbase_enhancement>
 <br /> 
