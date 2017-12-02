@@ -3,12 +3,19 @@ For navigation through Charlie’s projects:
 <br /> 
 # Research:
 ## **MultiGen, a generative network boosted by adding GANs and Generative Cooperative Network**
-<https://github.com/Xharlie/MultiGen>
-
-Paper: Generative Cooperative Net for Image Generation and Data Augmentation
-<https://scholar.google.com/citations?view_op=view_citation&hl=en&user=A-tqP6MAAAAJ&citation_for_view=A-tqP6MAAAAJ:u5HHmVD_uO8C>
+code: <https://github.com/Xharlie/MultiGen>
 <br /> 
+Paper: Generative Cooperative Net for Image Generation and Data Augmentation <br /> 
+Qiangeng Xu, Zengchang Qin, Tao Wan
+<https://arxiv.org/abs/1705.02887>
 <br /> 
+<br />
+## **Long-term video motion temporal super resolution**<br /> 
+Qiangeng Xu, Hanwang Zhang  <br /> 
+code: https://github.com/Xharlie/motion_temporal_super_resolution>
+<br />
+<br />
+<br />
 <br /> 
 # Projects:
 
